@@ -1,4 +1,8 @@
-## Atelier de Cryptographie: Comprendre le XOR et ses faiblesses
+# Atelier de Cryptographie: Comprendre le XOR et ses faiblesses
+
+Pour cet atelier, il vous suffit de suivre le **README** est de faire les défis qui vous intéresse. L'enjeu de l'atelier se trouve dans les défis 1 et 2 associés au XOR. Pour ces deux challenges, vous pouvez les initialiser avec les fichiers **/_create.py** (normalement ce n'est pas nécessaire) et des solutions sont proposées dans les fichiers **/_in_work.py**. 
+
+Ces solutions sont une simple proposition et il y a évidemment différentes façons de faire.
 
 ## 1. Petit historique du chiffrement
 
@@ -82,7 +86,7 @@ Si la clé fait 3 lettres ou moins…
 **Il suffit de tester toutes les combinaisons**.  
 Très vite cassé aujourd’hui.
 
-#### Petit défi
+#### Petit défi (Falcutatif)
 Appliquer les méthodes **1 et 2** sur *VigCipherText.txt* que vous pouvez trouver dans le dossier VigenereDefi.
 
 ## 2. Ce qui définit un bon chiffrement moderne
